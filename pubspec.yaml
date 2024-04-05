@@ -60,12 +60,12 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - assets/bariis.jpg
-    - assets/hooyo.jpg
-    - assets/kkaka.jpg
-    - assets/pasta.jpg
-    - assets/qiimo.jpg
-    - assets/meem.jpg
+    - assets/mag1.png
+    - assets/mag2.png
+    - assets/mag3.png
+    - assets/mag4.png
+    - assets/mag5.png
+    - assets/author_katz.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

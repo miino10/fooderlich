@@ -22,7 +22,7 @@ class Card1 extends StatelessWidget {
           // 4
           image: DecorationImage(
             // 5
-            image: AssetImage('assets/hooyo.jpg'),
+            image: AssetImage('assets/mag1.png'),
             // 6
             fit: BoxFit.cover,
           ),
